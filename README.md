@@ -33,8 +33,3 @@ The directory contains the following files:
 
 ## Running
 You may view the application by running `python3 application.py`
-
-## Demonstration Video
--- 'https://drive.google.com/open?id=1IDB3rk6PiS1TpWHv6YWKuo-NKTx0NFxM'
-
-
